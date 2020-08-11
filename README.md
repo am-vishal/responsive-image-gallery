@@ -1,3 +1,4 @@
 # responsive-image-gallery
 created by HTML & Pure CSS (Flexbox, @media query)
-no copyright issue feel free to use it.
+ some image will randomly changes when page will reload.
+*no copyright issue feel free to use it.*
